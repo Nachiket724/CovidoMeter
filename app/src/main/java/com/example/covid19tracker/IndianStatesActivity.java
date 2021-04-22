@@ -31,7 +31,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class IndianStatesActivity extends AppCompatActivity {
-
+//India Activity
     EditText edtSearch;
     ListView listView;
     SimpleArcLoader simpleArcLoader;
